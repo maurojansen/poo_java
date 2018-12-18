@@ -1,3 +1,10 @@
+/*
+Classe....: caixaEletronico: instancia a classe Conta e simula um caixa eletrônico com deposito e saque
+Criação...: 14/12/2018 - prof.Mauro e Turma DesSistemas
+Alterações: 
+
+Possível melhoria: mostrar sempre o saldo na tela ao perguntar se quer depositar ou sacar.
+*/
 package estudoJava;
 import java.util.Scanner;
 
