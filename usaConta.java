@@ -1,3 +1,9 @@
+/*
+Classe....: usaConta: instancia a classe Conta e usa o método depositar e sacar com valores fixos
+Criação...: 13/12/2018 - prof.Mauro e Turma DesSistemas
+Alterações:
+  14/12/2018 - Mauro e turma - alterado para testar conta com limite 
+*/
 package estudoJava;
 
 public class usaConta {
